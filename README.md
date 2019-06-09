@@ -23,8 +23,8 @@ $ git clone git@github.com:cointop-sh/colors.git
 
 Edit `~/.cointop/config.toml` and set colorscheme:
 
-```
-colorscheme = "homebrew"
+```toml
+colorscheme = "matrix"
 ```
 
 ## Colorschemes
