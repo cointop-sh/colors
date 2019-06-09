@@ -1,0 +1,76 @@
+colorscheme = "iceberg"
+
+base_fg = "white"
+base_bg = "blue"
+
+chart_fg = "white"
+chart_bg = "blue"
+chart_bold = false
+
+marketbar_fg = "white"
+marketbar_bg = "blue"
+marketbar_bold = false
+
+marketbar_label_active_fg = "yellow"
+marketbar_label_active_bg = "blue"
+marketbar_label_active_bold = false
+
+menu_fg = "white"
+menu_bg = "blue"
+menu_bold = false
+
+menu_header_fg = "blue"
+menu_header_bg = "white"
+menu_header_bold = false
+
+menu_label_fg = "yellow"
+menu_label_bg = "blue"
+menu_label_bold = false
+
+menu_label_active_fg = "yellow"
+menu_label_active_bg = "blue"
+menu_label_active_bold = true
+
+searchbar_fg = "blue"
+searchbar_bg = "white"
+searchbar_bold = false
+
+statusbar_fg = "blue"
+statusbar_bg = "white"
+statusbar_bold = false
+
+table_column_price_fg = "yellow"
+table_column_price_bg = "blue"
+table_column_price_bold = false
+
+table_column_change_fg = "white"
+table_column_change_bg = "blue"
+table_column_change_bold = false
+
+table_column_change_down_fg = "red"
+table_column_change_down_bg = "blue"
+table_column_change_down_bold = false
+
+table_column_change_up_fg = "cyan"
+table_column_change_up_bg = "blue"
+table_column_change_up_bold = false
+
+table_header_fg = "blue"
+table_header_bg = "white"
+table_header_bold = false
+
+table_header_column_active_fg = "white"
+table_header_column_active_bg = "blue"
+table_header_column_active_bold = false
+
+table_row_fg = "white"
+table_row_bg = "blue"
+table_row_bold = false
+
+table_row_active_fg = "blue"
+table_row_active_bg = "white"
+table_row_active_bold = false
+
+table_row_favorite_fg = "yellow"
+table_row_favorite_bg = "blue"
+table_row_favorite_bold = false
