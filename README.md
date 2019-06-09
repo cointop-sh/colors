@@ -31,27 +31,39 @@ colorscheme = "homebrew"
 
 ### [cointop](./cointop.toml)
 
-<img width="900" alt="cointop" src="https://user-images.githubusercontent.com/168240/59156043-ee7e2180-8a49-11e9-928f-69a82e8d7a77.png">
+<img width="900" alt="cointop" src="./images/cointop.png">
 
 ### [grayscale](./grayscale.toml)
 
-<img width="900" alt="grayscale" src="https://user-images.githubusercontent.com/168240/59156044-ee7e2180-8a49-11e9-9dd2-caa10a4b598f.png">
+<img width="900" alt="grayscale" src="./images/grayscale.png">
 
 ### [homebrew](./homebrew.toml)
 
-<img width="900" alt="homebrew" src="https://user-images.githubusercontent.com/168240/59156045-ee7e2180-8a49-11e9-8e7e-5e57efd6478f.png">
+<img width="900" alt="homebrew" src="./images/homebrew.png">
 
 ### [iceberg](./iceberg.toml)
 
-<img width="900" alt="iceberg" src="https://user-images.githubusercontent.com/168240/59156046-ee7e2180-8a49-11e9-8b6b-1dc2e301fa0b.png">
+<img width="900" alt="iceberg" src="./images/iceberg.png">
+
+### [mars](./mars.toml)
+
+<img width="900" alt="mars" src="./images/mars.png">
 
 ### [matrix](./matrix.toml)
 
-<img width="900" alt="matrix" src="https://user-images.githubusercontent.com/168240/59156047-ef16b800-8a49-11e9-84b9-f1dc42928bd5.png">
+<img width="900" alt="matrix" src="./images/matrix.png">
+
+### [satan](./satan.toml)
+
+<img width="900" alt="satan" src="./images/satan.png">
 
 ### [synthwave](./synthwave.toml)
 
-<img width="synthwave" alt="synthwave" src="https://user-images.githubusercontent.com/168240/59156048-ef16b800-8a49-11e9-82e7-497ea9007326.png">
+<img width="900" alt="synthwave" src="./images/synthwave.png">
+
+### [xray](./xray.toml)
+
+<img width="900" alt="xray" src="./images/xray.png">
 
 ## Contributing
 
