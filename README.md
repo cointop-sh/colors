@@ -2,6 +2,9 @@
 
 > Standard colorschemes (themes) for [cointop](https://github.com/miguelmota/cointop/)
 
+[![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cointop-sh/colors/master/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+
 ## Installation
 
 Clone into config directory:
@@ -11,7 +14,7 @@ $ cd ~/.cointop
 $ git clone git@github.com:cointop-sh/colors.git
 ```
 
-Edit ``~/.cointop/config.toml` and set colorscheme:
+Edit `~/.cointop/config.toml` and set colorscheme:
 
 ```
 colorscheme = "homebrew"
@@ -42,6 +45,21 @@ colorscheme = "homebrew"
 ### [synthwave](./synthwave.toml)
 
 <img width="synthwave" alt="synthwave" src="https://user-images.githubusercontent.com/168240/59156048-ef16b800-8a49-11e9-82e7-497ea9007326.png">
+
+## Contributing
+
+If you have a cool and unique theme that you'd like to share, please submit fork and submit a PR!
+
+Supported colors are:
+
+- `black`
+- `blue`
+- `cyan`
+- `green`
+- `magenta`
+- `red`
+- `white`
+- `yellow`
 
 ## License
 
