@@ -1,9 +1,16 @@
-# colors
+# cointop colors
 
 > Standard colorschemes (themes) for [cointop](https://github.com/miguelmota/cointop/)
 
 [![License](http://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cointop-sh/colors/master/LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
+
+## Contents
+
+- [Installation](#installation)
+- [Colorschemes](#colorschemes)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Installation
 
@@ -48,7 +55,7 @@ colorscheme = "homebrew"
 
 ## Contributing
 
-If you have a cool and unique theme that you'd like to share, please submit fork and submit a PR!
+If you have a cool and unique theme that you'd like to share, please fork and submit a PR!
 
 Supported colors are:
 
