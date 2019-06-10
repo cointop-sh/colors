@@ -79,6 +79,7 @@ Supported colors are:
 - `red`
 - `white`
 - `yellow`
+- xterm display hex colors; view [cheat sheet](https://jonasjacek.github.io/colors/).
 
 ## License
 
