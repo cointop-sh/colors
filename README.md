@@ -29,9 +29,15 @@ colorscheme = "matrix"
 
 ## Colorschemes
 
+In alphabetical order:
+
 ### [cointop](./cointop.toml)
 
 <img width="900" alt="cointop" src="./images/cointop.png">
+
+### [crimson](./crimson.toml)
+
+<img width="900" alt="crimson" src="./images/crimson.png">
 
 ### [grayscale](./grayscale.toml)
 
@@ -52,10 +58,6 @@ colorscheme = "matrix"
 ### [matrix](./matrix.toml)
 
 <img width="900" alt="matrix" src="./images/matrix.png">
-
-### [satan](./satan.toml)
-
-<img width="900" alt="satan" src="./images/satan.png">
 
 ### [synthwave](./synthwave.toml)
 
@@ -79,7 +81,8 @@ Supported colors are:
 - `red`
 - `white`
 - `yellow`
-- xterm display hex colors; view [cheat sheet](https://jonasjacek.github.io/colors/).
+
+<!-- - xterm display hex colors; view [cheat sheet](https://jonasjacek.github.io/colors/) -->
 
 ## License
 
