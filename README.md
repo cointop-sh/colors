@@ -10,6 +10,7 @@
 - [Installation](#installation)
 - [Colorschemes](#colorschemes)
 - [Contributing](#contributing)
+- [FAQ](#FAQ)
 - [License](#license)
 
 ## Installation
@@ -83,6 +84,12 @@ Supported colors are:
 - `yellow`
 
 <!-- - xterm display hex colors; view [cheat sheet](https://jonasjacek.github.io/colors/) -->
+
+## FAQ
+
+- Q: Why don't colorschemes support RGB or hex colors?
+
+  - A: Some of the cointop underlying rendering libraries don't support true colors. See [issue](https://github.com/nsf/termbox/issues/37).
 
 ## License
 
