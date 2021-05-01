@@ -64,6 +64,12 @@ In alphabetical order:
 
 <img width="900" alt="synthwave" src="https://user-images.githubusercontent.com/168240/115509029-ce693d00-a232-11eb-9cbc-1915c4e7abd0.png">
 
+### [system](./system.toml)
+
+Uses system default color.
+
+![system](https://user-images.githubusercontent.com/168240/116793901-6d393900-aa7e-11eb-8a78-7428b5a4ec6d.png)
+
 ### [xray](./xray.toml)
 
 <img width="900" alt="xray" src="https://user-images.githubusercontent.com/168240/115509042-d45f1e00-a232-11eb-9a2d-29bf6fbd8c6f.png">
@@ -82,6 +88,7 @@ Supported colors are:
 - `red`
 - `white`
 - `yellow`
+- `default` - system default
 
 <!-- - xterm display hex colors; view [cheat sheet](https://jonasjacek.github.io/colors/) -->
 
