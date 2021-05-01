@@ -22,7 +22,7 @@ $ cd ~/.cointop
 $ git clone git@github.com:cointop-sh/colors.git
 ```
 
-Edit `~/.cointop/config.toml` and set colorscheme:
+Edit `~/.config/cointop/config.toml` and set colorscheme:
 
 ```toml
 colorscheme = "matrix"
@@ -68,7 +68,7 @@ In alphabetical order:
 
 Uses system default color.
 
-![system](https://user-images.githubusercontent.com/168240/116793901-6d393900-aa7e-11eb-8a78-7428b5a4ec6d.png)
+<img width="850" alt="system" src="https://user-images.githubusercontent.com/168240/116793901-6d393900-aa7e-11eb-8a78-7428b5a4ec6d.png">
 
 ### [xray](./xray.toml)
 
